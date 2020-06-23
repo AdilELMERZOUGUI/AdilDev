@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".LivresActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/BtnListe"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#1C9CA5"
+            android:drawableRight="@drawable/ic_list"
+            android:paddingRight="40dp"
+            android:singleLine="false"
+            android:text="Liste Des Livres"
+            android:textAllCaps="true"
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/BtnDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#1C9CA5"
+            android:capitalize="none"
+            android:drawableRight="@drawable/ic_book_black_24dp"
+            android:onClick="AfficherDetails"
+            android:paddingRight="40dp"
+            android:singleLine="false"
+            android:soundEffectsEnabled="false"
+            android:text="Gestion Des Livres"
+            android:textColor="#FFFFFF"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LayoutDetails"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout"
+        app:layout_constraintVertical_bias="0.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:weightSum="10"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/txtCode"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="4"
+                android:background="@drawable/btn_radius"
+                android:ems="10"
+                android:hint="ID"
+                android:inputType="number"
+                android:textSize="24sp" />
+
+            <ImageButton
+                android:id="@+id/button8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="6"
+                android:background="@drawable/btn_cherche"
+                android:onClick="Chercher"
+                android:padding="10dp"
+                android:src="@drawable/ic_search_black_24dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/txtTitre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:hint="Titre"
+                android:background="@drawable/btn_radius"
+                android:inputType="textPersonName"
+                android:paddingRight="10dp" />
+
+            <EditText
+                android:id="@+id/txtAuteur"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:background="@drawable/btn_radius"
+                android:hint="Auteur"
+                android:inputType="textPersonName" />
+            <EditText
+                android:id="@+id/txtEdition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:background="@drawable/btn_radius"
+                android:hint="Edition"
+                android:inputType="textPersonName" />
+            <EditText
+                android:id="@+id/txtQuantite"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:ems="10"
+                android:background="@drawable/btn_radius"
+                android:hint="Quantite"
+                android:inputType="number" />
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#57B846"
+                android:drawableRight="@drawable/ic_add_black_24dp"
+                android:onClick="Ajouter"
+                android:paddingRight="40dp"
+                android:text="Ajouter"
+                android:layout_marginTop="20dp"
+                android:textAlignment="inherit"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#2B8FD8"
+                android:drawableRight="@drawable/ic_edit_black_24dp"
+                android:onClick="Modifier"
+                android:paddingRight="40dp"
+                android:text="Modifier"
+                android:textAlignment="inherit"
+                android:textColor="#ffffff" />
+
+            <Button
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#F05249"
+                android:drawableRight="@drawable/ic_remove_black_24dp"
+                android:onClick="Supprimer"
+                android:paddingRight="40dp"
+                android:text="Supprimer"
+                android:textAlignment="inherit"
+                android:textColor="#ffffff" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/LayoutListe"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="8dp"
+        android:layout_marginTop="40dp"
+        android:orientation="vertical"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/LayoutDetails">
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/RecyclerListe"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="50dp"
+
+
+            />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProjetGestionBibliotheque</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="classes">
+        <item>Classe A1</item>
+        <item>Classe A2</item>
+        <item>Classe B1</item>
+        <item>Classe B2</item>
+        <item>Classe C1</item>
+        <item>Classe C2</item>
+    </string-array>
+</resources>

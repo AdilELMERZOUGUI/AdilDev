@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "639022225617",
+    "firebase_url": "https://projetgestionbibliothequ-beaff.firebaseio.com",
+    "project_id": "projetgestionbibliothequ-beaff",
+    "storage_bucket": "projetgestionbibliothequ-beaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639022225617:android:fe7a851a980c3183e40df0",
+        "android_client_info": {
+          "package_name": "com.example.projetgestionbibliotheque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639022225617-26s1fv5brtmligj1sfronq5k1c5noktv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projetgestionbibliotheque",
+            "certificate_hash": "b96f7c7058ac78a42ef7ec47f4e36bfaac58f855"
+          }
+        },
+        {
+          "client_id": "639022225617-nqidrqfi3jkhibm0b97mrprp509ls2np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1DzNUNJWB_zHwAKCY1nZWxk1c2F1NrBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639022225617-nqidrqfi3jkhibm0b97mrprp509ls2np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
