@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6743787dd897475686a54dfcd6a1641d" Name="Diagram1">
+        <EntityTypeShape EntityType="DB_BibModel.demande" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_BibModel.eleve" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="DB_BibModel.livre" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <AssociationConnector Association="DB_BibModel.FK_demande_eleve" ManuallyRouted="false" />
+        <AssociationConnector Association="DB_BibModel.FK_demande_livre" ManuallyRouted="true" >
+          <ConnectorPoint PointX="2.25" PointY="5.24974609375" />
+          <ConnectorPoint PointX="2.5559375" PointY="5.24974609375" />
+          <ConnectorPoint PointX="2.5559375" PointY="3.9868920572916662" />
+          <ConnectorPoint PointX="3.75" PointY="3.9868920572916662" />
+          <ConnectorPoint PointX="3.75" PointY="3.3648893229166661" />
+        </AssociationConnector>
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

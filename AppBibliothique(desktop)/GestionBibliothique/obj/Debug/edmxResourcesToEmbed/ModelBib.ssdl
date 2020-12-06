@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_BibModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="demande">
+    <Key>
+      <PropertyRef Name="id_eleve" />
+      <PropertyRef Name="id_livre" />
+    </Key>
+    <Property Name="id_eleve" Type="int" Nullable="false" />
+    <Property Name="id_livre" Type="int" Nullable="false" />
+    <Property Name="date_prise" Type="date" />
+    <Property Name="date_retour" Type="date" />
+    <Property Name="valide_Retour" Type="bit" />
+  </EntityType>
+  <EntityType Name="eleve">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nom" Type="nvarchar" MaxLength="50" />
+    <Property Name="prenom" Type="nvarchar" MaxLength="50" />
+    <Property Name="datenaiss" Type="date" />
+    <Property Name="id_classe" Type="int" />
+  </EntityType>
+  <EntityType Name="livre">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="titre" Type="nvarchar" MaxLength="50" />
+    <Property Name="auteur" Type="nvarchar" MaxLength="50" />
+    <Property Name="edition" Type="nvarchar" MaxLength="100" />
+    <Property Name="photo" Type="nvarchar" MaxLength="1000" />
+    <Property Name="id_cat" Type="int" />
+    <Property Name="quantite" Type="int" />
+    <Property Name="disponibilite" Type="bit" />
+  </EntityType>
+  <Association Name="FK_demande_eleve">
+    <End Role="eleve" Type="Self.eleve" Multiplicity="1" />
+    <End Role="demande" Type="Self.demande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="eleve">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="demande">
+        <PropertyRef Name="id_eleve" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_demande_livre">
+    <End Role="livre" Type="Self.livre" Multiplicity="1" />
+    <End Role="demande" Type="Self.demande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="livre">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="demande">
+        <PropertyRef Name="id_livre" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_BibModelStoreContainer">
+    <EntitySet Name="demande" EntityType="Self.demande" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="eleve" EntityType="Self.eleve" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="livre" EntityType="Self.livre" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_demande_eleve" Association="Self.FK_demande_eleve">
+      <End Role="eleve" EntitySet="eleve" />
+      <End Role="demande" EntitySet="demande" />
+    </AssociationSet>
+    <AssociationSet Name="FK_demande_livre" Association="Self.FK_demande_livre">
+      <End Role="livre" EntitySet="livre" />
+      <End Role="demande" EntitySet="demande" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

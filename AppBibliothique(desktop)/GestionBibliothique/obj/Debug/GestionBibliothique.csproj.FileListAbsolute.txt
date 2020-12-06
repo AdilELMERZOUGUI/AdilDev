@@ -1,0 +1,48 @@
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\GestionBibliothique.exe.config
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\GestionBibliothique.exe
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\GestionBibliothique.pdb
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.dll
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\MetroFramework.Design.dll
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\MetroFramework.dll
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.xml
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormBibliothèqueDesLivres.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormGestionDesEleves.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormGestionDesTransferts.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormGraphPourcentage.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormHome.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormLogin.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormProfil.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormStatistiquesEtRapports.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormImprimation.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.Properties.Resources.resources
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.csproj.GenerateResource.Cache
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.exe
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.pdb
+C:\Users\Adil Dev\documents\visual studio 2013\Projects\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.csprojResolveAssemblyReference.cache
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\GestionBibliothique.exe.config
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\GestionBibliothique.exe
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\GestionBibliothique.pdb
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.dll
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.SqlServer.dll
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\MetroFramework.Design.dll
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\MetroFramework.dll
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\MetroFramework.Fonts.dll
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.xml
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\bin\Debug\EntityFramework.SqlServer.xml
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormBibliothèqueDesLivres.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormGestionDesEleves.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormGestionDesTransferts.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormGraphPourcentage.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormHome.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormLogin.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormProfil.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormStatistiquesEtRapports.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.FormImprimation.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.Properties.Resources.resources
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.csproj.GenerateResource.Cache
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.exe
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.pdb
+E:\TDI202\Projets\Projet_GestionBibliothèque\SolutionProjet\GestionBibliothique\GestionBibliothique\obj\Debug\GestionBibliothique.csprojResolveAssemblyReference.cache

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DB_BibModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="demande">
+    <Key>
+      <PropertyRef Name="id_eleve" />
+      <PropertyRef Name="id_livre" />
+    </Key>
+    <Property Name="id_eleve" Type="Int32" Nullable="false" />
+    <Property Name="id_livre" Type="Int32" Nullable="false" />
+    <Property Name="date_prise" Type="DateTime" Precision="0" />
+    <Property Name="date_retour" Type="DateTime" Precision="0" />
+    <Property Name="valide_Retour" Type="Boolean" />
+    <NavigationProperty Name="eleve" Relationship="Self.FK_demande_eleve" FromRole="demande" ToRole="eleve" />
+    <NavigationProperty Name="livre" Relationship="Self.FK_demande_livre" FromRole="demande" ToRole="livre" />
+  </EntityType>
+  <EntityType Name="eleve">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="prenom" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="datenaiss" Type="DateTime" Precision="0" />
+    <Property Name="id_classe" Type="Int32" />
+    <NavigationProperty Name="demandes" Relationship="Self.FK_demande_eleve" FromRole="eleve" ToRole="demande" />
+  </EntityType>
+  <EntityType Name="livre">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="auteur" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="edition" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="photo" Type="String" MaxLength="1000" FixedLength="false" Unicode="true" />
+    <Property Name="id_cat" Type="Int32" />
+    <Property Name="disponibilite" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="demandes" Relationship="Self.FK_demande_livre" FromRole="livre" ToRole="demande" />
+  </EntityType>
+  <Association Name="FK_demande_eleve">
+    <End Role="eleve" Type="Self.eleve" Multiplicity="1" />
+    <End Role="demande" Type="Self.demande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="eleve">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="demande">
+        <PropertyRef Name="id_eleve" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_demande_livre">
+    <End Role="livre" Type="Self.livre" Multiplicity="1" />
+    <End Role="demande" Type="Self.demande" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="livre">
+        <PropertyRef Name="id" />
+      </Principal>
+      <Dependent Role="demande">
+        <PropertyRef Name="id_livre" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DB_BibEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="demandes" EntityType="Self.demande" />
+    <EntitySet Name="eleves" EntityType="Self.eleve" />
+    <EntitySet Name="livres" EntityType="Self.livre" />
+    <AssociationSet Name="FK_demande_eleve" Association="Self.FK_demande_eleve">
+      <End Role="eleve" EntitySet="eleves" />
+      <End Role="demande" EntitySet="demandes" />
+    </AssociationSet>
+    <AssociationSet Name="FK_demande_livre" Association="Self.FK_demande_livre">
+      <End Role="livre" EntitySet="livres" />
+      <End Role="demande" EntitySet="demandes" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

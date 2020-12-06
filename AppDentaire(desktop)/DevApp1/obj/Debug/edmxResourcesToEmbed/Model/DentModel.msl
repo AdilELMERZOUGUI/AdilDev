@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DentModelStoreContainer" CdmEntityContainer="DentaireEntities1">
+    <EntitySetMapping Name="actes">
+      <EntityTypeMapping TypeName="DentModel.acte">
+        <MappingFragment StoreEntitySet="actes">
+          <ScalarProperty Name="id_acte" ColumnName="id_acte" />
+          <ScalarProperty Name="titre_acte" ColumnName="titre_acte" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="consultations">
+      <EntityTypeMapping TypeName="DentModel.consultation">
+        <MappingFragment StoreEntitySet="consultations">
+          <ScalarProperty Name="id_conslt" ColumnName="id_conslt" />
+          <ScalarProperty Name="details" ColumnName="details" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="id_rdv" ColumnName="id_rdv" />
+          <ScalarProperty Name="id_acte" ColumnName="id_acte" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="patients">
+      <EntityTypeMapping TypeName="DentModel.patient">
+        <MappingFragment StoreEntitySet="patients">
+          <ScalarProperty Name="id_patient" ColumnName="id_patient" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="adresse" ColumnName="adresse" />
+          <ScalarProperty Name="mutuel" ColumnName="mutuel" />
+          <ScalarProperty Name="observation" ColumnName="observation" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="payements">
+      <EntityTypeMapping TypeName="DentModel.payement">
+        <MappingFragment StoreEntitySet="payements">
+          <ScalarProperty Name="id_pay" ColumnName="id_pay" />
+          <ScalarProperty Name="avance" ColumnName="avance" />
+          <ScalarProperty Name="montant" ColumnName="montant" />
+          <ScalarProperty Name="id_conslt" ColumnName="id_conslt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="rendez_vous">
+      <EntityTypeMapping TypeName="DentModel.rendez_vous">
+        <MappingFragment StoreEntitySet="rendez_vous">
+          <ScalarProperty Name="id_rdv" ColumnName="id_rdv" />
+          <ScalarProperty Name="date_rdv" ColumnName="date_rdv" />
+          <ScalarProperty Name="seance" ColumnName="seance" />
+          <ScalarProperty Name="disponible" ColumnName="disponible" />
+          <ScalarProperty Name="traiter" ColumnName="traiter" />
+          <ScalarProperty Name="id_patient" ColumnName="id_patient" />
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="utilisteurs">
+      <EntityTypeMapping TypeName="DentModel.utilisteur">
+        <MappingFragment StoreEntitySet="utilisteurs">
+          <ScalarProperty Name="id_user" ColumnName="id_user" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="tel" ColumnName="tel" />
+          <ScalarProperty Name="role" ColumnName="role" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,691 @@
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Acte.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Consultation.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Patient.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_RDV.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Historique_RDV.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Home.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Modifier_RDV.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.Properties.Resources.resources
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.csproj.GenerateResource.cache
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.exe.licenses
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.csproj.CoreCompileInputs.cache
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevApp1.exe.config
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevApp1.exe
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevApp1.pdb
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.CodeParser.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Data.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Images.v20.1.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.csproj.CopyComplete
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.exe
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.pdb
+C:\Users\Adil Dev\source\repos\DevApp1\DevApp1\obj\Debug\DevApp1.csprojAssemblyReference.cache
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevApp1.exe.config
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevApp1.exe
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevApp1.pdb
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\aa\DevApp1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\fr\DevApp1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\Devart.Data.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\Devart.Data.SQLite.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.CodeParser.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Data.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\EntityFramework.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Images.v20.1.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\Devart.Data.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\Devart.Data.SQLite.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Data.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\EntityFramework.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\fr\EntityFramework.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.csprojAssemblyReference.cache
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Acte.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Consultation.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Consultation_Patient.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Modifier_Patient.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Patient.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_RDV.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Historique_RDV.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Home.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Modifier_RDV.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Properties.Resources.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Home.aa.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Home.fr.resources
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.csproj.GenerateResource.cache
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.exe.licenses
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.csproj.CoreCompileInputs.cache
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\aa\DevApp1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\fr\DevApp1.resources.dll
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.csproj.CopyComplete
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.exe
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.pdb
+E:\MyProjects\Desktop\DentaireApp\DevApp1\obj\Debug\DevApp1.Forms.Login.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevApp1.exe.config
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevApp1.exe
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevApp1.pdb
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\aa\DevApp1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\fr\DevApp1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Devart.Data.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Devart.Data.SQLite.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.CodeParser.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Data.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\EntityFramework.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Newtonsoft.Json.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\System.Net.Http.Formatting.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\System.Web.Http.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\System.Web.Http.WebHost.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Images.v20.1.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Devart.Data.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Devart.Data.SQLite.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Data.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\EntityFramework.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Newtonsoft.Json.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\System.Net.Http.Formatting.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\System.Web.Http.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\System.Web.Http.WebHost.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\fr\EntityFramework.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Acte.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Consultation.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Consultation_Patient.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Login.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Modifier_Consultation.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Modifier_Patient.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Patient.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_RDV.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Historique_RDV.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Home.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.Modifier_RDV.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Forms.repairSource.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Properties.Resources.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Home.aa.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.Home.fr.resources
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.csproj.GenerateResource.cache
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.exe.licenses
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.csproj.CoreCompileInputs.cache
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\aa\DevApp1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\fr\DevApp1.resources.dll
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.csproj.CopyComplete
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.exe
+E:\MyProjects\Desktop\DevApp1\DevApp1\obj\Debug\DevApp1.pdb
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevApp1.exe.config
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.exe
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.pdb
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevApp1.exe
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevApp1.pdb
+E:\MyProjects\AppSave\DevApp1\bin\Debug\aa\DevApp1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\fr\DevApp1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\Devart.Data.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\Devart.Data.SQLite.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.BonusSkins.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.CodeParser.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Data.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\EntityFramework.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\Newtonsoft.Json.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\System.Net.Http.Formatting.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\System.Web.Http.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\System.Web.Http.WebHost.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Images.v20.1.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\Devart.Data.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\Devart.Data.SQLite.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Data.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.DataAccess.v20.1.UI.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Diagram.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Utils.v20.1.UI.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Xpo.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraDiagram.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraRichEdit.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraScheduler.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\EntityFramework.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\Newtonsoft.Json.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\System.Net.Http.Formatting.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\System.Web.Http.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\System.Web.Http.WebHost.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\DevExpress.XtraVerticalGrid.v20.1.xml
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.DataAccess.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Diagram.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Utils.v20.1.UI.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Xpo.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraRichEdit.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraScheduler.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\fr\EntityFramework.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\de\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\es\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v20.1.resources.dll
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.csprojAssemblyReference.cache
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Acte.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Consultation.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Consultation_Patient.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Login.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Modifier_Consultation.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Modifier_Patient.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_Patient.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Ajouter_RDV.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Historique_RDV.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Home.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.Modifier_RDV.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Forms.repairSource.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Properties.Resources.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Home.aa.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.Home.fr.resources
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.csproj.GenerateResource.cache
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.exe.licenses
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.csproj.CoreCompileInputs.cache
+E:\MyProjects\AppSave\DevApp1\obj\Debug\aa\DevApp1.resources.dll
+E:\MyProjects\AppSave\DevApp1\obj\Debug\fr\DevApp1.resources.dll
+E:\MyProjects\AppSave\DevApp1\obj\Debug\DevApp1.csproj.CopyComplete

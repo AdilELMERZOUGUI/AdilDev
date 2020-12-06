@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DentModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="acte">
+    <Key>
+      <PropertyRef Name="id_acte" />
+    </Key>
+    <Property Name="id_acte" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="titre_acte" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="consultations" Relationship="Self.FK_consultations_actes_0" FromRole="actes" ToRole="consultations" />
+  </EntityType>
+  <EntityType Name="consultation">
+    <Key>
+      <PropertyRef Name="id_conslt" />
+    </Key>
+    <Property Name="id_conslt" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="details" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="id_user" Type="Int64" Nullable="false" />
+    <Property Name="id_rdv" Type="Int64" />
+    <Property Name="id_acte" Type="Int64" Nullable="false" />
+    <Property Name="id_pay" Type="Int64" Nullable="false" />
+    <NavigationProperty Name="acte" Relationship="Self.FK_consultations_actes_0" FromRole="consultations" ToRole="actes" />
+    <NavigationProperty Name="payement" Relationship="Self.FK_consultations_payements_2" FromRole="consultations" ToRole="payements" />
+    <NavigationProperty Name="rendez_vous" Relationship="Self.FK_consultations_rendez_vous_1" FromRole="consultations" ToRole="rendez_vous" />
+    <NavigationProperty Name="utilisteur" Relationship="Self.FK_consultations_utilisteurs_3" FromRole="consultations" ToRole="utilisteurs" />
+  </EntityType>
+  <EntityType Name="patient">
+    <Key>
+      <PropertyRef Name="id_patient" />
+    </Key>
+    <Property Name="id_patient" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prenom" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="tel" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="adresse" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="mutuel" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="observation" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="rendez_vous" Relationship="Self.FK_rendez_vous_patients_0" FromRole="patients" ToRole="rendez_vous" />
+  </EntityType>
+  <EntityType Name="payement">
+    <Key>
+      <PropertyRef Name="id_pay" />
+    </Key>
+    <Property Name="id_pay" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="avance" Type="Double" />
+    <Property Name="montant" Type="Double" />
+    <NavigationProperty Name="consultations" Relationship="Self.FK_consultations_payements_2" FromRole="payements" ToRole="consultations" />
+  </EntityType>
+  <EntityType Name="rendez_vous">
+    <Key>
+      <PropertyRef Name="id_rdv" />
+    </Key>
+    <Property Name="id_rdv" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="date_rdv" Type="String" Nullable="false" />
+    <Property Name="seance" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="disponible" Type="Int64" Nullable="false" />
+    <Property Name="traiter" Type="Int64" Nullable="false" />
+    <Property Name="id_patient" Type="Int64" Nullable="false" />
+    <Property Name="id_user" Type="Int64" Nullable="false" />
+    <Property Name="payer" Type="Int64" />
+    <Property Name="terminer" Type="Int64" />
+    <NavigationProperty Name="consultations" Relationship="Self.FK_consultations_rendez_vous_1" FromRole="rendez_vous" ToRole="consultations" />
+    <NavigationProperty Name="patient" Relationship="Self.FK_rendez_vous_patients_0" FromRole="rendez_vous" ToRole="patients" />
+    <NavigationProperty Name="utilisteur" Relationship="Self.FK_rendez_vous_utilisteurs_1" FromRole="rendez_vous" ToRole="utilisteurs" />
+  </EntityType>
+  <EntityType Name="utilisteur">
+    <Key>
+      <PropertyRef Name="id_user" />
+    </Key>
+    <Property Name="id_user" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nom" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="prenom" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="tel" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="role" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="consultations" Relationship="Self.FK_consultations_utilisteurs_3" FromRole="utilisteurs" ToRole="consultations" />
+    <NavigationProperty Name="rendez_vous" Relationship="Self.FK_rendez_vous_utilisteurs_1" FromRole="utilisteurs" ToRole="rendez_vous" />
+  </EntityType>
+  <Association Name="FK_consultations_actes_0">
+    <End Role="actes" Type="Self.acte" Multiplicity="1" />
+    <End Role="consultations" Type="Self.consultation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="actes">
+        <PropertyRef Name="id_acte" />
+      </Principal>
+      <Dependent Role="consultations">
+        <PropertyRef Name="id_acte" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_consultations_payements_2">
+    <End Role="payements" Type="Self.payement" Multiplicity="1" />
+    <End Role="consultations" Type="Self.consultation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="payements">
+        <PropertyRef Name="id_pay" />
+      </Principal>
+      <Dependent Role="consultations">
+        <PropertyRef Name="id_pay" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_consultations_rendez_vous_1">
+    <End Role="rendez_vous" Type="Self.rendez_vous" Multiplicity="0..1" />
+    <End Role="consultations" Type="Self.consultation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="rendez_vous">
+        <PropertyRef Name="id_rdv" />
+      </Principal>
+      <Dependent Role="consultations">
+        <PropertyRef Name="id_rdv" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_consultations_utilisteurs_3">
+    <End Role="utilisteurs" Type="Self.utilisteur" Multiplicity="1" />
+    <End Role="consultations" Type="Self.consultation" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="utilisteurs">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="consultations">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_rendez_vous_patients_0">
+    <End Role="patients" Type="Self.patient" Multiplicity="1" />
+    <End Role="rendez_vous" Type="Self.rendez_vous" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="patients">
+        <PropertyRef Name="id_patient" />
+      </Principal>
+      <Dependent Role="rendez_vous">
+        <PropertyRef Name="id_patient" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_rendez_vous_utilisteurs_1">
+    <End Role="utilisteurs" Type="Self.utilisteur" Multiplicity="1" />
+    <End Role="rendez_vous" Type="Self.rendez_vous" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="utilisteurs">
+        <PropertyRef Name="id_user" />
+      </Principal>
+      <Dependent Role="rendez_vous">
+        <PropertyRef Name="id_user" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="mainEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="actes" EntityType="Self.acte" />
+    <EntitySet Name="consultations" EntityType="Self.consultation" />
+    <EntitySet Name="patients" EntityType="Self.patient" />
+    <EntitySet Name="payements" EntityType="Self.payement" />
+    <EntitySet Name="rendez_vous" EntityType="Self.rendez_vous" />
+    <EntitySet Name="utilisteurs" EntityType="Self.utilisteur" />
+    <AssociationSet Name="FK_consultations_actes_0" Association="Self.FK_consultations_actes_0">
+      <End Role="actes" EntitySet="actes" />
+      <End Role="consultations" EntitySet="consultations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_consultations_payements_2" Association="Self.FK_consultations_payements_2">
+      <End Role="payements" EntitySet="payements" />
+      <End Role="consultations" EntitySet="consultations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_consultations_rendez_vous_1" Association="Self.FK_consultations_rendez_vous_1">
+      <End Role="rendez_vous" EntitySet="rendez_vous" />
+      <End Role="consultations" EntitySet="consultations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_consultations_utilisteurs_3" Association="Self.FK_consultations_utilisteurs_3">
+      <End Role="utilisteurs" EntitySet="utilisteurs" />
+      <End Role="consultations" EntitySet="consultations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_rendez_vous_patients_0" Association="Self.FK_rendez_vous_patients_0">
+      <End Role="patients" EntitySet="patients" />
+      <End Role="rendez_vous" EntitySet="rendez_vous" />
+    </AssociationSet>
+    <AssociationSet Name="FK_rendez_vous_utilisteurs_1" Association="Self.FK_rendez_vous_utilisteurs_1">
+      <End Role="utilisteurs" EntitySet="utilisteurs" />
+      <End Role="rendez_vous" EntitySet="rendez_vous" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

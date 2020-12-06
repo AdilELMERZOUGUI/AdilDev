@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_BibModelStoreContainer" CdmEntityContainer="DB_BibEntities">
+    <EntitySetMapping Name="demandes">
+      <EntityTypeMapping TypeName="DB_BibModel.demande">
+        <MappingFragment StoreEntitySet="demande">
+          <ScalarProperty Name="id_eleve" ColumnName="id_eleve" />
+          <ScalarProperty Name="id_livre" ColumnName="id_livre" />
+          <ScalarProperty Name="date_prise" ColumnName="date_prise" />
+          <ScalarProperty Name="date_retour" ColumnName="date_retour" />
+          <ScalarProperty Name="valide_Retour" ColumnName="valide_Retour" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="eleves">
+      <EntityTypeMapping TypeName="DB_BibModel.eleve">
+        <MappingFragment StoreEntitySet="eleve">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nom" ColumnName="nom" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="datenaiss" ColumnName="datenaiss" />
+          <ScalarProperty Name="id_classe" ColumnName="id_classe" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="livres">
+      <EntityTypeMapping TypeName="DB_BibModel.livre">
+        <MappingFragment StoreEntitySet="livre">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="titre" ColumnName="titre" />
+          <ScalarProperty Name="auteur" ColumnName="auteur" />
+          <ScalarProperty Name="edition" ColumnName="edition" />
+          <ScalarProperty Name="photo" ColumnName="photo" />
+          <ScalarProperty Name="id_cat" ColumnName="id_cat" />
+          <ScalarProperty Name="disponibilite" ColumnName="disponibilite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

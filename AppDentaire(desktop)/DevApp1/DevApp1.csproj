@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E7C92F06-FCF7-48EC-B0BA-CB9DC95AAB6D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DevApp1</RootNamespace>
+    <AssemblyName>DevApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>dentistry.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Devart.Data, Version=5.0.2551.0, Culture=neutral, PublicKeyToken=09af7300eec23701" />
+    <Reference Include="Devart.Data.SQLite, Version=5.16.1759.0, Culture=neutral, PublicKeyToken=09af7300eec23701, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.BonusSkins.v20.1" />
+    <Reference Include="DevExpress.CodeParser.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.Desktop.v20.1" />
+    <Reference Include="DevExpress.Data.v20.1" />
+    <Reference Include="DevExpress.DataAccess.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v20.1.UI, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Diagram.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v20.1.Core" />
+    <Reference Include="DevExpress.RichEdit.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v20.1" />
+    <Reference Include="DevExpress.Utils.v20.1.UI, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Xpo.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v20.1" />
+    <Reference Include="DevExpress.Sparkline.v20.1.Core" />
+    <Reference Include="DevExpress.XtraDiagram.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v20.1" />
+    <Reference Include="DevExpress.XtraGrid.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v20.1.Core, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v20.1, Version=20.1.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="EntityFramework, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=12.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.12.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.Http.Formatting, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.7\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Http, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.7\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost, Version=5.2.7.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.7\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccessObject\Dao.cs" />
+    <Compile Include="Forms\Ajouter_Acte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ajouter_Acte.Designer.cs">
+      <DependentUpon>Ajouter_Acte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ajouter_Consultation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ajouter_Consultation.Designer.cs">
+      <DependentUpon>Ajouter_Consultation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Consultation_Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Consultation_Patient.Designer.cs">
+      <DependentUpon>Consultation_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Modifier_Consultation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Modifier_Consultation.Designer.cs">
+      <DependentUpon>Modifier_Consultation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Modifier_Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Modifier_Patient.Designer.cs">
+      <DependentUpon>Modifier_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ajouter_Patient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ajouter_Patient.Designer.cs">
+      <DependentUpon>Ajouter_Patient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Ajouter_RDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Ajouter_RDV.Designer.cs">
+      <DependentUpon>Ajouter_RDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Historique_RDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Historique_RDV.Designer.cs">
+      <DependentUpon>Historique_RDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Modifier_RDV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Modifier_RDV.Designer.cs">
+      <DependentUpon>Modifier_RDV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\repairSource.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\repairSource.Designer.cs">
+      <DependentUpon>repairSource.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Models\acte.cs">
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\consultation.cs">
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DentModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DentModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DentModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\DentModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DentModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Models\patient.cs">
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\payement.cs">
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\rendez_vous.cs">
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\utilisteur.cs">
+      <DependentUpon>DentModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\SaveData.cs" />
+    <Compile Include="Repository\Statistique.cs" />
+    <Compile Include="Repository\UserDao.cs" />
+    <Compile Include="Repository\PayementDao.cs" />
+    <Compile Include="Repository\ActeDao.cs" />
+    <Compile Include="Repository\ConsultationDao.cs" />
+    <Compile Include="Repository\RdvDao.cs" />
+    <Compile Include="Repository\PatientDao.cs" />
+    <Compile Include="Settings.cs" />
+    <EmbeddedResource Include="Forms\Ajouter_Acte.resx">
+      <DependentUpon>Ajouter_Acte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ajouter_Consultation.resx">
+      <DependentUpon>Ajouter_Consultation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Consultation_Patient.resx">
+      <DependentUpon>Consultation_Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Modifier_Consultation.resx">
+      <DependentUpon>Modifier_Consultation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Modifier_Patient.resx">
+      <DependentUpon>Modifier_Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ajouter_Patient.resx">
+      <DependentUpon>Ajouter_Patient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Ajouter_RDV.resx">
+      <DependentUpon>Ajouter_RDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Historique_RDV.resx">
+      <DependentUpon>Historique_RDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.aa.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.fr.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Modifier_RDV.resx">
+      <DependentUpon>Modifier_RDV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\repairSource.resx">
+      <DependentUpon>repairSource.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config" />
+    <None Include="Data\db_dent.db" />
+    <EntityDeploy Include="Models\DentModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>DentModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="Models\DentModel.edmx.diagram">
+      <DependentUpon>DentModel.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\actions_zoom.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bo_address.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zoom.svg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\buy_32x32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dentistry.ico" />
+    <Content Include="Resources\fir.png" />
+    <None Include="Resources\close_32x32.png" />
+    <None Include="Resources\apply_32x323.png" />
+    <None Include="Resources\switchtimescalesto_32x32.png" />
+    <None Include="Resources\apply_32x322.png" />
+    <None Include="Resources\apply_32x321.png" />
+    <None Include="Resources\bodetails_32x32.png" />
+    <None Include="Resources\apply_32x32.png" />
+    <None Include="Resources\about_32x32.png" />
+    <None Include="Resources\about_32x321.png" />
+    <None Include="Resources\about_32x322.png" />
+    <None Include="Resources\about_32x323.png" />
+    <None Include="Resources\about_32x324.png" />
+    <None Include="Resources\about_32x325.png" />
+    <None Include="Resources\about_32x326.png" />
+    <Content Include="images\ba1.png" />
+    <Content Include="images\ba2.png" />
+    <Content Include="images\ba3.png" />
+    <Content Include="images\ba4.png" />
+    <Content Include="images\fir.png" />
+    <Content Include="images\loding.png" />
+    <Content Include="images\st1.png" />
+    <Content Include="images\st2.png" />
+    <Content Include="images\st3.png" />
+    <Content Include="images\st4.png" />
+    <Content Include="Models\DentModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DentModel.edmx</DependentUpon>
+      <LastGenOutput>DentModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Models\DentModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>DentModel.edmx</DependentUpon>
+      <LastGenOutput>DentModel.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\about_32x327.png" />
+    <None Include="Resources\about_32x328.png" />
+    <Content Include="Resources\app-dentisAt.png" />
+    <None Include="Resources\app-dentisAt1.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

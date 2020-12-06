@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1508A7BC-D4E4-4B67-98B0-96554EC1B077}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GestionBibliothique</RootNamespace>
+    <AssemblyName>GestionBibliothique</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReportGraph.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportGraph.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportRappelEleve.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportRappelEleve.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="CrystalReportTousEleves.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReportTousEleves.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSetBib.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetBib.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="demande.cs">
+      <DependentUpon>ModelBib.tt</DependentUpon>
+    </Compile>
+    <Compile Include="eleve.cs">
+      <DependentUpon>ModelBib.tt</DependentUpon>
+    </Compile>
+    <Compile Include="FormBibliothèqueDesLivres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBibliothèqueDesLivres.Designer.cs">
+      <DependentUpon>FormBibliothèqueDesLivres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGestionDesEleves.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGestionDesEleves.Designer.cs">
+      <DependentUpon>FormGestionDesEleves.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGestionDesTransferts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGestionDesTransferts.Designer.cs">
+      <DependentUpon>FormGestionDesTransferts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormGraphPourcentage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormGraphPourcentage.Designer.cs">
+      <DependentUpon>FormGraphPourcentage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHome.Designer.cs">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProfil.Designer.cs">
+      <DependentUpon>FormProfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormStatistiquesEtRapports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormStatistiquesEtRapports.Designer.cs">
+      <DependentUpon>FormStatistiquesEtRapports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormImprimation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormImprimation.Designer.cs">
+      <DependentUpon>FormImprimation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="livre.cs">
+      <DependentUpon>ModelBib.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModelBib.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelBib.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModelBib.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelBib.tt</DependentUpon>
+    </Compile>
+    <Compile Include="ModelBib.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ModelBib.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CrystalReportGraph.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportGraph.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportRappelEleve.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportRappelEleve.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrystalReportTousEleves.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReportTousEleves.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBibliothèqueDesLivres.resx">
+      <DependentUpon>FormBibliothèqueDesLivres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGestionDesEleves.resx">
+      <DependentUpon>FormGestionDesEleves.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGestionDesTransferts.resx">
+      <DependentUpon>FormGestionDesTransferts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormGraphPourcentage.resx">
+      <DependentUpon>FormGraphPourcentage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHome.resx">
+      <DependentUpon>FormHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProfil.resx">
+      <DependentUpon>FormProfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormStatistiquesEtRapports.resx">
+      <DependentUpon>FormStatistiquesEtRapports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormImprimation.resx">
+      <DependentUpon>FormImprimation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <EntityDeploy Include="ModelBib.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>ModelBib.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="DataSetBib.xsc">
+      <DependentUpon>DataSetBib.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetBib.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetBib.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetBib.xss">
+      <DependentUpon>DataSetBib.xsd</DependentUpon>
+    </None>
+    <None Include="ModelBib.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelBib.edmx</DependentUpon>
+      <LastGenOutput>ModelBib.Context.cs</LastGenOutput>
+    </None>
+    <None Include="ModelBib.edmx.diagram">
+      <DependentUpon>ModelBib.edmx</DependentUpon>
+    </None>
+    <None Include="ModelBib.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>ModelBib.edmx</DependentUpon>
+      <LastGenOutput>ModelBib.cs</LastGenOutput>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="images\bell %281%29.png" />
+    <Content Include="images\biblio-640x426.jpg" />
+    <Content Include="images\business-and-finance.png" />
+    <Content Include="images\circle %282%29.png" />
+    <Content Include="images\circle .png" />
+    <Content Include="images\filter.png" />
+    <Content Include="images\forwards.png" />
+    <Content Include="images\graph.png" />
+    <Content Include="images\librarian.png" />
+    <Content Include="images\libraries.png" />
+    <Content Include="images\login.png" />
+    <Content Include="images\man.png" />
+    <Content Include="images\previous.png" />
+    <Content Include="images\printer %281%29.png" />
+    <Content Include="images\search.png" />
+    <Content Include="images\skip %281%29.png" />
+    <Content Include="images\skip.png" />
+    <Content Include="images\upload.png" />
+    <Content Include="photo_admin\HibaZahoui1.jpg" />
+    <Content Include="photo_livre\2635769.jpeg" />
+    <Content Include="photo_livre\3015359.jpg" />
+    <Content Include="photo_livre\51uoHQa8HIL._SX324_BO1,204,203,200_.jpg" />
+    <Content Include="photo_livre\51y3U5vfXvL._SX343_BO1,204,203,200_.jpg" />
+    <Content Include="photo_livre\71cMCNmK8FL.jpg" />
+    <Content Include="photo_livre\bm_CVT_Trackers-T1-Glyphmaster_5123.jpg" />
+    <Content Include="photo_livre\Rebelle.jpg" />
+    <Content Include="photo_livre\téléchargé.jpg" />
+    <None Include="images\libraries2.png" />
+    <Content Include="images\student-in-the-library.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

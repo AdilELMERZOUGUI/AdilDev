@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DevApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Name" Type="System.String" Scope="User">
+      <Value Profile="(Default)">AppDentiste</Value>
+    </Setting>
+    <Setting Name="MaxMatin" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="MaxSoir" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="PathSource" Type="System.String" Scope="User">
+      <Value Profile="(Default)">E:\MyProjects\Desktop\DevApp1\DevApp1\bin\Debug\Data\db_dent.db</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
